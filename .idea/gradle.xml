@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/javasamples" />
             <option value="$PROJECT_DIR$/patternmodel" />
             <option value="$PROJECT_DIR$/regularlib" />
           </set>

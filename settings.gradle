@@ -1,1 +1,1 @@
-include ':app', ':patternmodel', ':regularlib'
+include ':app', ':patternmodel', ':regularlib', ':javasamples'
